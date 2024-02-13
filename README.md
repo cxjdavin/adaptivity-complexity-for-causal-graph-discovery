@@ -1,5 +1,5 @@
 # Adaptivity Complexity for Causal Graph Discovery
-This is the accompanying repository of the Accompanying repository for "Adaptivity Complexity for Causal Graph Discovery". It is available at (coming soon).
+This is the accompanying repository of the Accompanying repository for "Adaptivity Complexity for Causal Graph Discovery". It is available at https://arxiv.org/abs/2306.05781.
 
 We have included a copy of the produced `figures` sub-directory in here so you may look at the output without running the experiments yourself.
 
