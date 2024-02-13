@@ -106,6 +106,8 @@ When $r=n$, Algorithm 2 can match [CSB22] with its full adaptivity.
 
 ## References
 
+[This paper] Davin Choo and Kirankumar Shiragur. Adaptivity Complexity for Causal Graph Discovery. Conference on Uncertainty in Artificial Intelligence, 2023. Available at https://arxiv.org/abs/2306.05781
+
 [G72] Fănică Gavril. Algorithms for minimum coloring, maximum clique, minimum covering by cliques, and maximum independent set of a chordal graph. SIAM Journal on Computing, 1(2):180–187, 1972. Available at: https://epubs.siam.org/doi/abs/10.1137/0201013?journalCode=smjcat
 
 [L84] Joseph Y-T Leung. Fast algorithms for generating all maximal independent sets of interval, circular-arc and chordal graphs. Journal of Algorithms, 5(1):22–35, 1984. Available at: https://www.sciencedirect.com/science/article/abs/pii/0196677484900373
@@ -118,4 +120,4 @@ When $r=n$, Algorithm 2 can match [CSB22] with its full adaptivity.
 
 [CSB22] Davin Choo, Kirankumar Shiragur, and Arnab Bhattacharyya. Verification and search algorithms for causal DAGs. Advances in Neural Information Processing Systems, 2022. Available at https://arxiv.org/pdf/2206.15374.pdf
 
-[CS23] Davin Choo, and Kirankumar Shiragur. Subset verification and search algorithms for causal DAGs. International Conference on Artificial Intelligence and Statistics, 2023. Available at https://arxiv.org/pdf/2301.03180.pdf.
+[CS23] Davin Choo and Kirankumar Shiragur. Subset verification and search algorithms for causal DAGs. International Conference on Artificial Intelligence and Statistics, 2023. Available at https://arxiv.org/pdf/2301.03180.pdf.
