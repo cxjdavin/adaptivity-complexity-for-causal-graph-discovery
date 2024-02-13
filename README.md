@@ -118,4 +118,4 @@ When $r=n$, Algorithm 2 can match [CSB22] with its full adaptivity.
 
 [CSB22] Davin Choo, Kirankumar Shiragur, and Arnab Bhattacharyya. Verification and search algorithms for causal DAGs. Advances in Neural Information Processing Systems, 2022. Available at https://arxiv.org/pdf/2206.15374.pdf
 
-[CS23] Davin Choo, and Kirankumar Shiragur. Subset verification and search algorithms for causal DAGs. 2022. Available at https://arxiv.org/pdf/2301.03180.pdf.
+[CS23] Davin Choo, and Kirankumar Shiragur. Subset verification and search algorithms for causal DAGs. International Conference on Artificial Intelligence and Statistics, 2023. Available at https://arxiv.org/pdf/2301.03180.pdf.
